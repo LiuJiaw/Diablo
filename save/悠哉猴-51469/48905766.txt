@@ -1,0 +1,15 @@
+<div class="error_wrapper">
+    <p class="digital">个人资料不可用</p>
+    <p class="error_tip title">该个人资料无法显示，可能是由于其中以下一个原因：</p>
+    <ul>
+    	<li>该账号在很长一段时间内不够活跃，因此无法显示。要再次显示资料，非活跃的账号必须先登录《暗黑破坏神III》</li>
+    	<li>该账号的个人资料并不属于中国大陆地区</li>
+    	<li>该账号不存在</li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+	$(function(){
+		$('.wrapper').css('background','url("http://diablo3.nos.netease.com/1/profile/career/hero-error-2.jpg") no-repeat 50% 0');
+	})
+</script>

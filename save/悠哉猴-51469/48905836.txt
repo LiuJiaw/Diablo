@@ -1,0 +1,834 @@
+<div class="ui-breadcrumbs">
+    <a href="/home">暗黑破坏神III</a>
+    <span class="arrow">></span>
+    <a href="/profile/悠哉猴-51469">悠哉猴#51469</a>
+    <span class="arrow">></span>
+    <a href="javascript:;" class="active">dada</a>
+</div>
+<div class="profile-wrapper">
+    <div class="profile-head">
+            <h2 class="header-2">
+悠哉猴<span class="battleTag">#51469</span>
+                <span class="clan">大家一起刷</span>
+			</h2>
+        <span class="clear"><!-- --></span>
+    </div>
+    <ul class="tab-menu clearFix">
+        <li class="menu-heroes ">
+            <a href="javascript:;" class="tab-active">
+                <span>英雄</span>
+            </a>
+        </li>
+        <li class="menu-career ">
+            <a href="/profile/悠哉猴-51469">
+                <span>冒险经历</span>
+            </a>
+        </li>
+    </ul>
+    <div class="profile-body" id="profile-body">
+        <div class="witch-doctor-female">
+            <div class="profile-selector" id="heroes">
+            	<a href="javascript:;" class="hero-tabs-left"></a>
+            	<div class="hero-tabs-wrap">
+	                <ul class="hero-tabs">
+	                    <li>
+	                        <a class="hero-tab wizard-male " href="48206432" data-tooltip="#hero-tab-tooltip-0">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">macheal</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-0" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">macheal</h2>
+	                                <p >
+	                                    <strong>70</strong>级魔法师
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab barbarian-male " href="48082214" data-tooltip="#hero-tab-tooltip-1">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">悠哉猴</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-1" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">悠哉猴</h2>
+	                                <p >
+	                                    <strong>70</strong>级野蛮人
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab monk-male " href="48577287" data-tooltip="#hero-tab-tooltip-2">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">火钟猴</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-2" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">火钟猴</h2>
+	                                <p >
+	                                    <strong>70</strong>级武僧
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab demon-hunter-male " href="48556878" data-tooltip="#hero-tab-tooltip-3">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">突突突的火多重</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-3" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">突突突的火多重</h2>
+	                                <p >
+	                                    <strong>70</strong>级猎魔人
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab witch-doctor-female active" href="48905836" data-tooltip="#hero-tab-tooltip-4">
+	                            <span class="hero-portrait">
+	                            	<span class="small-seasonal-leaf"></span>
+	                            </span>
+	                            <span class="level">8</span>
+	                            <span class="name">dada</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-4" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">dada</h2>
+	                                <p >
+	                                    <strong>8</strong>级巫医
+
+	                                    <span class="d3-color-seasonal"> - 赛季英雄</span>
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab witch-doctor-male " href="48905766" data-tooltip="#hero-tab-tooltip-5">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">1</span>
+	                            <span class="name">dada</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-5" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">dada</h2>
+	                                <p >
+	                                    <strong>1</strong>级巫医
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab crusader-male " href="48587591" data-tooltip="#hero-tab-tooltip-6">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">1</span>
+	                            <span class="name">天谴</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-6" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">天谴</h2>
+	                                <p >
+	                                    <strong>1</strong>级圣教军
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                </ul>
+                </div>
+                <a href="javascript:;" class="hero-tabs-right"></a>
+            </div>
+            <div class="profile-sheet" data-heroName="witch-doctor">
+                <h2 class="class">
+                	<a href="/gameguide/class/witch-doctor/" target="_blank">
+                		<span><strong>8<span class="paragon-level">（774）</span></strong>级巫医
+</span>
+					</a>
+				</h2>
+                <h2 class="header-2 name">dada</h2>
+                <div class="paperdoll" id="paperdoll">
+                    <ul class="gear-slots">
+                        <!-- 头部  -->
+                        <li class="slot-head">
+                            <a class="slot-link" href="javascript:;" data-d3tooltip="/career/悠哉猴-51469/48905836/head/item?param=/item/leather-hood-Helm_002">
+	                            <span class="d3-icon d3-icon-item d3-icon-item-blue">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+	                                </span>
+	                            </span>
+                                <span class="image">
+                                	<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/helm_002_demonhunter_male.png" alt="" />
+								</span>
+								<!-- 插槽和宝石 -->
+							</a>						
+						</li>
+						<!-- 躯干  -->
+						<li class="slot-torso">
+							<span class="d3-icon d3-icon-item empty-icon" data-tooltip="胸部">
+								<span class="icon-item-inner"></span>
+							</span>
+						</li>
+						<!-- 足部  -->
+						<li class="slot-feet">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/悠哉猴-51469/48905836/feet/item?param=/item/shoes-Boots_001">
+								<span class="d3-icon d3-icon-item d3-icon-item-white">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/boots_001_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+						</li>
+						<!-- 手套 -->
+						<li class="slot-hands">
+							<span class="d3-icon d3-icon-item empty-icon" data-tooltip="手部">
+								<span class="icon-item-inner"></span>
+							</span>
+						</li>
+						<!-- 护肩 -->
+						<li class="slot-shoulders">
+							<span class="d3-icon d3-icon-item empty-icon" data-tooltip="肩部">
+								<span class="icon-item-inner"></span>
+							</span>
+						</li>
+						<!-- 腿部 -->
+						<li class="slot-legs">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/悠哉猴-51469/48905836/legs/item?param=/item/leather-pants-Pants_002">
+								<span class="d3-icon d3-icon-item d3-icon-item-blue">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/pants_002_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+						</li>
+						<!-- 护腕 -->
+						<li class="slot-bracers">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/悠哉猴-51469/48905836/bracers/item?param=/item/bracers-Bracers_001">
+									<span class="d3-icon d3-icon-item d3-icon-item-blue"> <span
+										class="icon-item-gradient"> <span class="icon-item-inner"></span>
+									</span>
+								</span> <span class="image"> <img
+										src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/bracers_001_demonhunter_male.png"
+										alt="" />
+								</span>
+							</a>
+						</li>
+                        <!-- 主手 -->
+						<li class="slot-mainHand">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/悠哉猴-51469/48905836/mainHand/item?param=/item/javelin-Spear_001">
+								<span class="d3-icon d3-icon-item d3-icon-item-blue">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/spear_001_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+						</li>
+						<!-- 副手 -->
+						<li class="slot-offHand">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/悠哉猴-51469/48905836/offHand/item?param=/item/targe-shield-Shield_002">
+								<span class="d3-icon d3-icon-item d3-icon-item-blue">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/shield_002_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+						</li>
+                        <!-- 腰部 -->
+						<li class="slot-waist">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/悠哉猴-51469/48905836/waist/item?param=/artisan/blacksmith/recipe/apprentice-hide-belt">
+								<span class="d3-icon d3-icon-item d3-icon-item-blue">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/belt_002_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+						</li>
+                        <!-- 右手指 -->
+						<li class="slot-rightFinger">
+							<span class="d3-icon d3-icon-item empty-icon" data-tooltip="手指">
+								<span class="icon-item-inner"></span>
+							</span>
+						</li>
+                        <!-- 左手指 -->
+						<li class="slot-leftFinger">
+							<span class="d3-icon d3-icon-item empty-icon" data-tooltip="手指">
+								<span class="icon-item-inner"></span>
+							</span>
+						</li>
+                        <!-- 颈部 -->
+						<li class="slot-neck">
+							<span class="d3-icon d3-icon-item empty-icon" data-tooltip="颈部">
+								<span class="icon-item-inner"></span>
+							</span>
+						</li>
+					</ul>
+					<ul class="gear-labels" id="gear-labels">
+                        <li class="gear-label slot-head">
+                            <a href="javascript:;" data-d3tooltip="/career/悠哉猴-51469/48905836/head/item?param=/item/leather-hood-Helm_002" class="label-link d3-color-blue">
+                                <span class="item-name">专注之幸运皮帽
+</span>
+                                <!-- 装备加成 -->
+                            </a>
+                        </li>
+                        <li class="gear-label slot-feet">
+                            <a href="javascript:;" data-d3tooltip="/career/悠哉猴-51469/48905836/feet/item?param=/item/shoes-Boots_001" class="label-link d3-color-white">
+                                <span class="item-name">厚重便鞋
+</span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-legs">
+                            <a href="javascript:;" data-d3tooltip="/career/悠哉猴-51469/48905836/legs/item?param=/item/leather-pants-Pants_002" class="label-link d3-color-blue">
+                                <span class="item-name">雄狮之皮裤
+</span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-bracers">
+                            <a href="javascript:;" data-d3tooltip="/career/悠哉猴-51469/48905836/bracers/item?param=/item/bracers-Bracers_001" class="label-link d3-color-blue">
+                                <span class="item-name">专注之聚财护腕
+</span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-mainHand">
+                            <a href="javascript:;" data-d3tooltip="/career/悠哉猴-51469/48905836/mainHand/item?param=/item/javelin-Spear_001" class="label-link d3-color-blue">
+                                <span class="item-name">创伤之奇遇标枪
+</span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-offHand">
+                            <a href="javascript:;" data-d3tooltip="/career/悠哉猴-51469/48905836/offHand/item?param=/item/targe-shield-Shield_002" class="label-link d3-color-blue">
+                                <span class="item-name">高效之重圆盾
+</span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-waist">
+                            <a href="javascript:;" data-d3tooltip="/career/悠哉猴-51469/48905836/waist/item?param=/artisan/blacksmith/recipe/apprentice-hide-belt" class="label-link d3-color-blue">
+                                <span class="item-name">聚财兽皮带
+</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="gear-lines">
+                        <li class="slot-head"></li>
+                        <li class="slot-feet"></li>
+                        <li class="slot-legs"></li>
+                        <li class="slot-bracers"></li>
+                        <li class="slot-mainHand"></li>
+                        <li class="slot-offHand"></li>
+                        <li class="slot-waist"></li>
+                    </ul>
+                </div>
+                <div class="gear-bonuses" id="bonuses">
+                    <h3 class="header-3"><span class="help-icon tip" data-tooltip="#gear-bonuses-tooltip"></span>装备加成</h3>
+                    <div id="gear-bonuses-tooltip" style="display: none;">
+                        <div class="profile-tooltip">
+                            <h2 class="subheader-2">装备加成</h2>
+                            <p>此功能列出身上装备的主要加成属性。你可以选择一个加成来查看该加成来自哪些装备。</p>
+                        </div>
+                    </div>
+                    <ul>
+[Template rendering errors]                    </ul>
+                </div>
+                <span class="clear"><!-- --></span>
+            </div>
+            <div class="profile-lower">
+                <div class="profile-overview clearFix" id="overview">
+                    <div class="page-section skills">
+                        <div class="section-header ">
+                            <h3 class="header-3">技能</h3>
+                        </div>
+                        <!-- 技能 -->
+                        <div class="section-body">
+                        	<div class="skills-wrapper">
+                                <ul class="active-skills clear-after">
+                                    <li>
+                                        <a id="active-skill-tooltip-0-link"
+                                        	href="javascript:;"
+                                        	data-d3tooltip="/career/悠哉猴-51469/48905836/skill/0">
+                                            <span class="d3-icon d3-icon-skill d3-icon-skill-42 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/witchdoctor_poisondart.png'); width: 42px; height: 42px;">
+												<span class="frame"></span>
+                                            </span>
+                                            <span class="skill-name">剧毒飞镖
+												<span class="rune-name"></span>
+                                            </span>
+                                         </a>
+                                         <span class="slot slot-primary"></span>
+                                      </li>                                     
+                                      <li>
+                                      	<a id="active-skill-tooltip-1-link"
+                                      		href="javascript:;"
+                                      		data-d3tooltip="/career/悠哉猴-51469/48905836/skill/1">
+                                            <span class="d3-icon d3-icon-skill d3-icon-skill-42 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/witchdoctor_graspofthedead.png'); width: 42px; height: 42px;">
+												<span class="frame"></span>
+                                            </span>
+                                            <span class="skill-name">亡者之握
+												<span class="rune-name"></span>
+                                            </span>
+                                         </a>
+                                         <span class="slot slot-secondary"></span>
+                                       </li>
+                                       <li>
+                                       	  <a id="active-skill-tooltip-2-link"
+                                       	  	href="javascript:;"
+                                       	  	data-d3tooltip="/career/悠哉猴-51469/48905836/skill/2">
+                                            <span class="d3-icon d3-icon-skill d3-icon-skill-42 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/witchdoctor_summonzombiedog.png'); width: 42px; height: 42px;">
+												<span class="frame"></span>
+                                            </span>
+                                            <span class="skill-name">召唤僵尸犬
+												<span class="rune-name"></span>
+                                            </span>
+                                           </a>
+                                           <span class="slot slot-1"></span>
+                                       </li>
+                                      <li>
+                                      	<span class="d3-icon d3-icon-skill d3-icon-skill-42 tip" data-tooltip="9级时解锁">
+                                      		<span class="empty-skill locked-9"></span>
+                                      		<span class="slot slot-2"></span>
+                                      	</span>
+                                      </li>
+                                      <li>
+                                      	<span class="d3-icon d3-icon-skill d3-icon-skill-42 tip" data-tooltip="14级时解锁">
+                                      		<span class="empty-skill locked-14"></span>
+                                      		<span class="slot slot-3"></span>
+                                      	</span>
+                                      </li>
+                                      <li>
+                                      	<span class="d3-icon d3-icon-skill d3-icon-skill-42 tip" data-tooltip="19级时解锁">
+                                      		<span class="empty-skill locked-19"></span>
+                                      		<span class="slot slot-4"></span>
+                                      	</span>
+                                      </li>
+                                </ul>
+                                       <span class="clear"><!-- --></span>
+                                       <ul class="passive-skills clear-after">
+                                        </ul>
+                                        <span class="clear"><!-- --></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="page-section attributes">
+                                <div class="section-header ">
+                                    <h3 class="header-3">属性</h3>
+                                </div>
+                                <div class="section-body">
+                                    <div id="tooltip-strength-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		力量：<span class="d3-color-green"><span class="value">21</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 野蛮人和圣教军的主属性。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使野蛮人和圣教军的所有伤害提高 <span class="d3-color-green"><span class="value">21%</span></span>。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使护甲值提高 <span class="d3-color-green"><span class="value">21</span></span> 点。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-dexterity-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		敏捷：<span class="d3-color-green"><span class="value">15</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 猎魔人和武僧的主属性。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使猎魔人和武僧的所有伤害提高 <span class="d3-color-green"><span class="value">15%</span></span>。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使护甲值提高 <span class="d3-color-green"><span class="value">15</span></span> 点。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-intelligence-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		智力：<span class="d3-color-green"><span class="value">47</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 巫医和魔法师的主属性。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使巫医和魔法师的所有伤害提高 <span class="d3-color-green"><span class="value">47%</span></span>。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使抗性提高 <span class="d3-color-green"><span class="value">4.7</span></span> 点。</p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-vitality-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		体能：<span class="d3-color-green"><span class="value">23</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 提高生命值以承受更多伤害。
+                                                <br/><span class="tooltip-icon-bullet"></span> 每1点体能可以使生命值提高 <span class="d3-color-green"><span class="value">10</span></span> 点。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-armor-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		护甲值：<span class="d3-color-green"><span class="value">162</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span>使和你同等级的敌人造成的所有伤害降低 <span class="d3-color-green"><span class="value">0.00%</span></span>。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-dps-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		伤害：<span class="d3-color-green"><span class="value">13.56</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 你每秒可以造成的伤害量。
+                                                <br/><span class="tooltip-icon-bullet"></span> 你的武器、属性、攻速、暴击率、暴击伤害、被动技能以及双持攻速增加会影响伤害。
+                                               </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-toughness-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		坚韧：<span class="d3-color-green"><span class="value">467.89</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 你能承受的原始伤害总量。
+                                                <br/><span class="tooltip-icon-bullet"></span> 生命值上限、护甲值、躲闪几率、
+                                                 平均抗性、远程近战与精英伤害减免会影响坚韧。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-healing-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		恢复：<span class="d3-color-green"><span class="value">0</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 你在战斗中每秒可以恢复的坚韧数值。
+                                                <br/><span class="tooltip-icon-bullet"></span> 影响恢复的因素包括：你的坚韧、每次命中恢复的生命、每秒恢复的生命值、生命偷取、
+                                                每消耗1点怒气/内力/愤怒值恢复的生命值、每次消灭恢复的生命值以及生命球治疗加成。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-life-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		生命值上限：<span class="d3-color-green"><span class="value">298</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 如果你失去所有生命值即会死亡。
+                                                <br/><span class="tooltip-icon-bullet"></span> 体能、物品和技能可以提高生命值。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-maxPrimaryResource-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+<p>
+    <span class="d3-color-gold">
+        法力：<span class="value">750/750</span>
+    </span>
+    <br/>巫医消耗法力值来施展他的大多数法术技能<br />法力池会随着巫医等级的提升而增长
+</p>
+                                        </div>
+                                    </div>
+                                    <ul class="attributes-core">
+                                        <li data-tooltip="#tooltip-strength-hero" class="tip">
+                                            <span class="label">力量</span>
+                                            <span class="value">21</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-dexterity-hero" class="tip">
+                                            <span class="label">敏捷</span>
+                                            <span class="value">15</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-intelligence-hero" class="tip">
+                                            <span class="label">智力</span>
+                                            <span class="value">47</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-vitality-hero" class="tip">
+                                            <span class="label">体能</span>
+                                            <span class="value">23</span>
+                                        </li>
+                                        <li class="clear"></li>
+                                    </ul>
+                                    <ul class="attributes-core secondary">
+                                        <li data-tooltip="#tooltip-dps-hero" class="tip">
+                                            <span class="label">伤害</span>
+                                            <span class="value">13.56</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-toughness-hero" class="tip">
+                                            <span class="label">坚韧</span>
+                                            <span class="value">467.89</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-healing-hero" class="tip">
+                                            <span class="label">恢复</span>
+                                            <span class="value">0</span>
+                                        </li>
+                                        <li class="clear"></li>
+                                    </ul>
+                                    <ul class="resources">
+                                        <li class="resource tip" data-tooltip="#tooltip-maxPrimaryResource-hero">
+                                            <span class="resource-icon resource-mana
+">
+                                            	<span class="value">750</span>
+                                            </span>
+                                            <span class="label-wrapper">
+                                            	<span class="label">法力
+</span>
+                                            </span>
+                                        </li>
+                                        <li class="resource tip" data-tooltip="#tooltip-life-hero">
+                                            <span class="resource-icon resource-life">
+                                            	<span class="value">298</span>
+                                            </span>
+                                            <span class="label-wrapper"><span class="label">生命值</span></span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="page-section kanai-cube">
+							<div class="section-header ">
+							<h3 class="header-3">卡奈魔盒传奇力量</h3>
+							</div>
+							<div class="section-body">
+							<div class="legendary-powers-wrapper">
+							<div class="legendary-power-wrapper">
+								<div class="legendary-power-container legendary-power-weapon ">
+								</div>
+								<div class="legendary-power-name"> 武器 </div>
+							</div>
+							<div class="legendary-power-wrapper">
+								<div class="legendary-power-container legendary-power-armor ">
+								</div>
+								<div class="legendary-power-name"> 防具 </div>
+							</div>
+							<div class="legendary-power-wrapper">
+								<div class="legendary-power-container legendary-power-jewelry ">
+								</div>
+								<div class="legendary-power-name"> 首饰 </div>
+							</div>
+							</div>
+							</div>
+							</div>
+                            <span class="clear"><!-- --></span>
+                        </div>
+                        <!--  追随者/随从 -->
+                        <div class="page-section profile-followers">
+                            <div class="section-header ">
+                                <h3 class="header-3">追随者</h3>
+                            </div>
+                            <div class="section-body">
+                                <div class="followers">
+                                    <!-- 魔女 -->
+                                    <div class="follower-wrapper follower-enchantress">
+                                        <a href="/gameguide/follower/enchantress/" class="follower-header">
+                                            <h3 class="header-3">魔女</h3>
+                                            <span class="level">8</span>
+                                        </a>
+                                        <table class="skills">
+                                            <tbody>
+                                            </tbody>
+                                        </table>
+                                        <ul class="items">
+                                            <li>
+                                                <span class="slot slot-special" data-tooltip="魔女法器"></span>
+                                            </li>
+                                            <li>
+                                                <span class="slot slot-neck" data-tooltip="颈部"></span>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;" class="slot slot-mainHand" data-d3tooltip="/career/悠哉猴-51469/48905836/enchantress/mainHand/follower-item?param=/item/simple-dagger-Dagger_001">
+                                                    <span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+                                                    	<span class="icon-item-gradient">
+                                                    		<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/dagger_001_demonhunter_male.png);"></span>
+                                                    	</span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <span class="slot slot-offHand empty-offhand" data-tooltip="魔女不能使用副手装备。">
+                                                	<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/dagger_001_demonhunter_male.png);"></span>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="slot slot-leftFinger" data-tooltip="手指"></span>
+                                            </li>
+                                            <li>
+                                                <span class="slot slot-rightFinger" data-tooltip="手指"></span>
+                                            </li>
+                                        </ul>
+                                        <span class="clear"><!-- --></span>
+                                        <ul class="adventure-stats">
+                                            <li class="empty-stat">
+                                                <span class="value">0.0%</span>
+                                                <span class="label">金币获取量</span>
+                                            </li>
+                                            <li class="empty-stat">
+                                                <span class="value">0.0%</span>
+                                                <span class="label">魔法物品获取率</span>
+                                            </li>
+                                            <li class="empty-stat">
+                                                <span class="value">+0</span>
+                                                <span class="label">经验值加成</span>
+                                            </li>
+                                            <span class="clear"><!-- --></span>
+                                        </ul>
+                                    </div>
+                                    <!-- 痞子 -->
+                                    <div class="follower-wrapper follower-scoundrel">
+                                        <a href="/gameguide/follower/scoundrel/" class="follower-header">
+                                            <h3 class="header-3">痞子</h3>
+                                            <span class="level">8</span>
+                                        </a>
+                                        <table class="skills">
+                                            <tbody>                                                                        
+                                            </tbody>
+                                        </table>
+                                        <ul class="items">
+                                            <li>
+                                                <span class="slot slot-special" data-tooltip="痞子徽记"></span>
+                                            </li>
+                                            <li>
+												<span class="slot slot-neck" data-tooltip="颈部"></span>
+											</li>
+                                            <li>
+                                                <a href="javascript:;" class="slot slot-mainHand" data-d3tooltip="/career/悠哉猴-51469/48905836/scoundrel/mainHand/follower-item?param=/item/short-bow-Bow_001">
+                                                    <span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+                                                    	<span class="icon-item-gradient">
+                                                    		<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/bow_001_demonhunter_male.png);"></span>                                                                            		
+                                                    	</span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                            	<span class="slot slot-offHand empty-offhand" data-tooltip="痞子不能使用副手装备。">
+                                                	<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/bow_001_demonhunter_male.png);"></span>                                                	
+                                                </span>
+                                            </li>
+                                            <li>
+												<span class="slot slot-leftFinger" data-tooltip="手指"></span>
+											</li>
+                                            <li>
+												<span class="slot slot-rightFinger" data-tooltip="手指"></span>
+											</li>
+                                       	</ul>
+                                        <span class="clear"><!-- --></span>
+                                        <ul class="adventure-stats">
+                                            <li class="empty-stat">
+                                                <span class="value">0.0</span>
+                                                <span class="label">金币获取量</span>
+                                            </li>
+                                            <li class="empty-stat">                                            
+                                                <span class="value">0.0</span>
+                                                <span class="label">魔法物品获取率</span>
+                                            </li>
+                                            <li class="empty-stat">
+                                                <span class="value">+0</span>
+                                                <span class="label">经验值加成</span>
+                                            </li>
+                                            <span class="clear"><!-- --></span>
+                                        </ul>
+                                    </div>
+                                    <!-- 圣殿骑士 -->
+                                    <div class="follower-wrapper follower-templar">
+                                        <a href="/gameguide/follower/templar/" class="follower-header">
+                                            <h3 class="header-3">圣殿骑士</h3>
+                                            <span class="level">8</span>
+                                        </a>
+                                        <table class="skills">
+                                            <tbody>                                                                        
+                                            </tbody>
+                                        </table>
+                                        <ul class="items">
+                                            <li>
+												<span class="slot slot-special" data-tooltip="圣殿骑士圣物"></span>
+											</li>
+                                            <li>
+												<span class="slot slot-neck" data-tooltip="颈部"></span>
+											</li>
+                                            <li>
+												<a href="javascript:;" class="slot slot-mainHand" data-d3tooltip="/career/悠哉猴-51469/48905836/templar/mainHand/follower-item?param=/item/javelin-Spear_001">
+													<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+														<span class="icon-item-gradient">
+															<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/spear_001_demonhunter_male.png);"></span>
+														</span>
+													</span>
+												</a>
+											</li>
+                                            <li>
+                                                <a href="javascript:;" class="slot slot-offHand" data-d3tooltip="/career/悠哉猴-51469/48905836/templar/offHand/follower-item?param=/item/buckler-Shield_001">
+                                                    <span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+                                                    	<span class="icon-item-gradient">
+                                                    		<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/shield_001_demonhunter_male.png);"></span>
+                                                    	</span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+												<span class="slot slot-leftFinger" data-tooltip="手指"></span>
+											</li>
+											<li>
+												<span class="slot slot-rightFinger" data-tooltip="手指"></span>
+											</li>
+                                        </ul>
+                                        <span class="clear"><!-- --></span>
+                                        <ul class="adventure-stats">
+                                            <li class="empty-stat">
+                                                <span class="value">0.0</span>
+                                                <span class="label">金币获取量</span>
+                                            </li>
+                                            <li class="empty-stat">
+                                                <span class="value">0.0</span>
+                                                <span class="label">魔法物品获取率</span>
+                                            </li>
+                                            <li class="empty-stat">
+                                                <span class="value">+0</span>
+                                                <span class="label">经验值加成</span>
+                                            </li>
+                                            <span class="clear"><!-- --></span>
+                                        </ul>
+                                    </div>
+                                    <span class="clear"><!-- --></span>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="last-updated">最近更新于 2018-02-26 19:46:20</p>
+                    </div>
+                </div>
+            </div>                                    
+        </div>
+        <span class="clear"><!-- --></span>

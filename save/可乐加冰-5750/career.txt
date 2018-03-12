@@ -1,0 +1,478 @@
+<div class="ui-breadcrumbs">
+    <a href="/home">暗黑破坏神III</a>
+    <span class="arrow">></span>
+    <a href="javascript:;" class="active">可乐加冰#5750</a>
+</div> 
+<div class="profile-wrapper">
+	<div class="profile-head">
+			<h2 class="header-2" >
+可乐加冰<span class="battleTag">#5750</span>
+	        	<span class="clan">玉米地里么么哒</span>
+			</h2>
+    	<span class="clear"><!-- --></span>
+	</div>
+    <ul class="tab-menu clearFix">
+	    <li class="menu-heroes ">
+	        <a href="/profile/可乐加冰-5750
+/49272546">
+	        <span>英雄</span>
+	        </a>
+	    </li>
+	    <li class="menu-career ">
+	        <a href="/profile/可乐加冰-5750
+" class="tab-active">
+	        <span>冒险经历</span>
+	        </a>
+	    </li>
+        
+    </ul>
+	<div class="profile-body" id="profile-body">
+        <div class="career-right">
+            <div class="career-right-top">
+                <div class="career-right-bot">
+				    <div class="career-kills">
+				        <div class="kill-section lifetime">
+				            <span class="icon"></span>
+				            <span class="num-kills">8788459</span>
+				            <span class="label">怪物消灭数</span>
+				    		<span class="clear"><!-- --></span>
+        				</div>
+				        <div class="kill-section elite">
+				            <span class="icon"></span>
+				            <span class="num-kills">1147945</span>
+				            <span class="label">精英怪消灭数</span>
+				    		<span class="clear"><!-- --></span>
+				        </div>
+        				<div class="kill-section paragon">
+				            <span class="icon"></span>
+				            <span class="num-kills">5308 | <span class="d3-color-hardcore">0</span></span>
+				            <span class="label">顛峰等级</span>
+				    		<span class="clear"><!-- --></span>
+				        </div>
+				    </div>
+					<div class="class-breakdown p6">
+						<h3 class="subheader-3" >各职业的游戏时间</h3>
+							<div class="bars">
+								<div class="column barbarian" data-tooltip="#tooltip-bar-barbarian">
+									<div class="bar full-bar" style="height: 66.4%;"></div>
+									<div class="column-name">野蛮人</div>
+									<div id="tooltip-bar-barbarian" style="display: none">
+										<h2 class="subheader-2" >野蛮人</h2>
+										20% <br />
+										最高等级：70
+									</div>
+								</div>
+								<div class="column crusader" data-tooltip="#tooltip-bar-crusader">
+									<div class="bar " style="height: 14.8%;"></div>
+									<div class="column-name">圣教军</div>
+									<div id="tooltip-bar-crusader" style="display: none">
+										<h2 class="subheader-2" >圣教军</h2>
+										4% <br />
+										最高等级：0
+									</div>
+								</div>
+								<div class="column demon-hunter" data-tooltip="#tooltip-bar-demon-hunter">
+					        		<div class="bar " style="height: 0.1%;"></div>
+					    				<div class="column-name">猎魔人</div>
+					                    <div id="tooltip-bar-demon-hunter" style="display: none">
+											<h2 class="subheader-2" >猎魔人</h2>
+					            			0% 
+					            			<br />最高等级：0
+					            		</div>
+					            </div>
+								<div class="column monk" data-tooltip="#tooltip-bar-monk">
+									<div class="bar " style="height: 40.1%;"></div>
+					                <div class="column-name">武僧</div>
+					                <div id="tooltip-bar-monk" style="display: none">
+										<h2 class="subheader-2" >武僧</h2>
+										12% 
+										<br />最高等级：0
+									</div>
+								</div>
+							
+								<div class="column necromancer" data-tooltip="#tooltip-bar-necromancer">
+					        		<div class="bar " style="height: 100%;"></div>
+					    			<div class="column-name">死灵法师</div>
+					    			<div id="tooltip-bar-necromancer" style="display: none">
+					    				<h2 class="subheader-2" >死灵法师</h2>
+					    				30% 
+					    				<br />最高等级：70
+					    			</div>
+					    		</div>
+
+								<div class="column witch-doctor" data-tooltip="#tooltip-bar-witch-doctor">
+					        		<div class="bar " style="height: 34.4%;"></div>
+					    			<div class="column-name">巫医</div>
+					    			<div id="tooltip-bar-witch-doctor" style="display: none">
+					    				<h2 class="subheader-2" >巫医</h2>
+					    				10% 
+					    				<br />最高等级：0
+					    			</div>
+					    		</div>
+								<div class="column wizard" data-tooltip="#tooltip-bar-wizard">
+									<div class="bar " style="height: 75.9%;"></div>
+									<div class="column-name">魔法师</div>
+									<div id="tooltip-bar-wizard" style="display: none">
+										<h2 class="subheader-2" >魔法师</h2>
+										23% 
+										<br />最高等级：70
+									</div>
+								</div>
+						    </div>
+					</div>
+					<p class="last-updated">最近更新于 2018-03-12 14:19:56</p>
+			    </div>
+			</div>
+			</div>
+			<div class="career-left">
+			    <div class="heroes">
+			        <div class="top-heroes">
+			        	<!-- 取前3个英雄展示在Top页面 -->
+					    <a class="hero-portrait-wrapper "
+					    	href="/profile/可乐加冰-5750
+/48423858"
+					    	data-tooltip="#hero-tab-tooltip-0"
+					    	>
+					        <span class="hero-portrait barbarian-male"></span>					        
+					        <span class="name">先祖之怒</span>
+					        <span class="skill-measure">精英怪消灭数：1611</span>
+					        <span class="level ">70</span>
+					    </a>
+					    <div id="hero-tab-tooltip-0" style="display:none">
+					        <div class="hero-tab-tooltip profile-tooltip">
+			    				<h2 class="subheader-2" >先祖之怒</h2>
+					            <p >
+					                <strong>70</strong>级
+野蛮人
+					            </p>
+					        </div>
+					    </div>
+			        	<!-- 取前3个英雄展示在Top页面 -->
+					    <a class="hero-portrait-wrapper "
+					    	href="/profile/可乐加冰-5750
+/48677691"
+					    	data-tooltip="#hero-tab-tooltip-1"
+					    	>
+					        <span class="hero-portrait wizard-male"></span>					        
+					        <span class="name">包小皮</span>
+					        <span class="large-seasonal-leaf"></span>
+					        <span class="skill-measure">精英怪消灭数：9684</span>
+					        <span class="level ">70</span>
+					    </a>
+					    <div id="hero-tab-tooltip-1" style="display:none">
+					        <div class="hero-tab-tooltip profile-tooltip">
+			    				<h2 class="subheader-2" >包小皮</h2>
+					            <p >
+					                <strong>70</strong>级
+魔法师
+					                 - <span class="d3-color-seasonal">赛季英雄</span>
+					            </p>
+					        </div>
+					    </div>
+			        	<!-- 取前3个英雄展示在Top页面 -->
+					    <a class="hero-portrait-wrapper "
+					    	href="/profile/可乐加冰-5750
+/48423852"
+					    	data-tooltip="#hero-tab-tooltip-2"
+					    	style="margin-right:0">
+					        <span class="hero-portrait barbarian-male"></span>					        
+					        <span class="name">包小皮</span>
+					        <span class="skill-measure">精英怪消灭数：70521</span>
+					        <span class="level ">70</span>
+					    </a>
+					    <div id="hero-tab-tooltip-2" style="display:none">
+					        <div class="hero-tab-tooltip profile-tooltip">
+			    				<h2 class="subheader-2" >包小皮</h2>
+					            <p >
+					                <strong>70</strong>级
+野蛮人
+					            </p>
+					        </div>
+					    </div>
+			        	<!-- 取前3个英雄展示在Top页面 -->
+			        	<!-- 取前3个英雄展示在Top页面 -->
+			        	<!-- 取前3个英雄展示在Top页面 -->
+			        	<!-- 取前3个英雄展示在Top页面 -->
+			        	<!-- 取前3个英雄展示在Top页面 -->
+			        	<!-- 取前3个英雄展示在Top页面 -->
+			    		<span class="clear"><!-- --></span>
+			        </div>
+					
+			        <div class="other-heroes list-table hero-table">
+			            <ul>
+			                <li class="row1">
+			                    <a href="/profile/可乐加冰-5750
+/48423853" data-tooltip="#hero-tab-tooltip-3">
+			                        <span class="cell col-hero" >     
+			        					<span class="icon-portrait icon-frame " style="background-image: url('http://diablo3.nos.netease.com/1/rankings/icons-zh-cn/barbarian_male.png'); width: 21px; height: 21px;">
+								            <span class="frame"></span>
+			    						</span>
+			                            叮叮叮
+			                        </span>
+			                        <span class="cell col-class "><strong>70</strong>级野蛮人
+</span>
+			                        <span class="cell col-measure">精英怪消灭数：16968</span>
+			                    </a>
+			                </li>
+							<div id="hero-tab-tooltip-3" style="display:none">
+							    <div class="hero-tab-tooltip profile-tooltip">
+							    	<h2 class="subheader-2" >叮叮叮</h2>
+			            			<p >
+			                			<strong>70</strong>级
+野蛮人
+			            			</p>
+						        </div>
+						    </div>
+			                <li class="row2">
+			                    <a href="/profile/可乐加冰-5750
+/48423851" data-tooltip="#hero-tab-tooltip-4">
+			                        <span class="cell col-hero" >     
+			        					<span class="icon-portrait icon-frame " style="background-image: url('http://diablo3.nos.netease.com/1/rankings/icons-zh-cn/necromancer_female.png'); width: 21px; height: 21px;">
+								            <span class="frame"></span>
+			    						</span>
+			                            叮叮叮
+			                        </span>
+			                        <span class="cell col-class "><strong>70</strong>级死灵法师
+</span>
+			                        <span class="cell col-measure">精英怪消灭数：198727</span>
+			                    </a>
+			                </li>
+							<div id="hero-tab-tooltip-4" style="display:none">
+							    <div class="hero-tab-tooltip profile-tooltip">
+							    	<h2 class="subheader-2" >叮叮叮</h2>
+			            			<p >
+			                			<strong>70</strong>级
+死灵法师
+			            			</p>
+						        </div>
+						    </div>
+			                <li class="row1">
+			                    <a href="/profile/可乐加冰-5750
+/49258355" data-tooltip="#hero-tab-tooltip-5">
+			                        <span class="cell col-hero" seasonal>     
+			        					<span class="icon-portrait icon-frame hardcore-frame" style="background-image: url('http://diablo3.nos.netease.com/1/rankings/icons-zh-cn/barbarian_male.png'); width: 21px; height: 21px;">
+								            <span class="frame"></span>
+			    						</span>
+			                            死不怕叁点零
+			                        </span>
+			                        <span class="small-seasonal-leaf"></span>
+			                        <span class="cell col-class d3-color-hardcore"><strong>70</strong>级野蛮人
+</span>
+			                        <span class="cell col-measure">精英怪消灭数：1061</span>
+			                    </a>
+			                </li>
+							<div id="hero-tab-tooltip-5" style="display:none">
+							    <div class="hero-tab-tooltip profile-tooltip">
+							    	<h2 class="subheader-2" >死不怕叁点零</h2>
+			            			<p class="d3-color-hardcore">
+			                			<strong>70</strong>级
+野蛮人
+			                			 - <span class="d3-color-seasonal">赛季英雄</span>
+			            			</p>
+						            <p class="d3-color-hardcore">专家模式</p>
+						        </div>
+						    </div>
+			                <li class="row2">
+			                    <a href="/profile/可乐加冰-5750
+/48423850" data-tooltip="#hero-tab-tooltip-6">
+			                        <span class="cell col-hero" >     
+			        					<span class="icon-portrait icon-frame " style="background-image: url('http://diablo3.nos.netease.com/1/rankings/icons-zh-cn/barbarian_male.png'); width: 21px; height: 21px;">
+								            <span class="frame"></span>
+			    						</span>
+			                            汉尼拔
+			                        </span>
+			                        <span class="cell col-class "><strong>70</strong>级野蛮人
+</span>
+			                        <span class="cell col-measure">精英怪消灭数：1426</span>
+			                    </a>
+			                </li>
+							<div id="hero-tab-tooltip-6" style="display:none">
+							    <div class="hero-tab-tooltip profile-tooltip">
+							    	<h2 class="subheader-2" >汉尼拔</h2>
+			            			<p >
+			                			<strong>70</strong>级
+野蛮人
+			            			</p>
+						        </div>
+						    </div>
+			                <li class="row1">
+			                    <a href="/profile/可乐加冰-5750
+/49052025" data-tooltip="#hero-tab-tooltip-7">
+			                        <span class="cell col-hero" seasonal>     
+			        					<span class="icon-portrait icon-frame " style="background-image: url('http://diablo3.nos.netease.com/1/rankings/icons-zh-cn/barbarian_male.png'); width: 21px; height: 21px;">
+								            <span class="frame"></span>
+			    						</span>
+			                            阿瓦隆
+			                        </span>
+			                        <span class="small-seasonal-leaf"></span>
+			                        <span class="cell col-class "><strong>70</strong>级野蛮人
+</span>
+			                        <span class="cell col-measure">精英怪消灭数：173</span>
+			                    </a>
+			                </li>
+							<div id="hero-tab-tooltip-7" style="display:none">
+							    <div class="hero-tab-tooltip profile-tooltip">
+							    	<h2 class="subheader-2" >阿瓦隆</h2>
+			            			<p >
+			                			<strong>70</strong>级
+野蛮人
+			                			 - <span class="d3-color-seasonal">赛季英雄</span>
+			            			</p>
+						        </div>
+						    </div>
+			                <li class="row2">
+			                    <a href="/profile/可乐加冰-5750
+/49272546" data-tooltip="#hero-tab-tooltip-8">
+			                        <span class="cell col-hero" seasonal>     
+			        					<span class="icon-portrait icon-frame hardcore-frame" style="background-image: url('http://diablo3.nos.netease.com/1/rankings/icons-zh-cn/barbarian_male.png'); width: 21px; height: 21px;">
+								            <span class="frame"></span>
+			    						</span>
+			                            飞飞飞
+			                        </span>
+			                        <span class="small-seasonal-leaf"></span>
+			                        <span class="cell col-class d3-color-hardcore"><strong>70</strong>级野蛮人
+</span>
+			                        <span class="cell col-measure">精英怪消灭数：4549</span>
+			                    </a>
+			                </li>
+							<div id="hero-tab-tooltip-8" style="display:none">
+							    <div class="hero-tab-tooltip profile-tooltip">
+							    	<h2 class="subheader-2" >飞飞飞</h2>
+			            			<p class="d3-color-hardcore">
+			                			<strong>70</strong>级
+野蛮人
+			                			 - <span class="d3-color-seasonal">赛季英雄</span>
+			            			</p>
+						            <p class="d3-color-hardcore">专家模式</p>
+						        </div>
+						    </div>
+			            </ul>
+			        </div>
+			    </div>
+			</div>
+			<div class="career-full">
+			    <div class="page-section progression">
+			        <div class="section-header ">
+			    		<h3 class="header-3" >进度</h3>
+			        </div>
+			        <div class="section-body">
+			    		<div class="bosses">
+				            <div class="boss boss0">
+				            </div>
+				            <div class="boss boss1">
+				            </div>
+				            <div class="boss boss2">
+				            </div>
+				            <div class="boss boss3">
+				            </div>
+				            <div class="boss boss4killed">
+				            </div>
+			    		</div>
+				    	<div class="bosses-timeline">
+				      		<div class="bossesKilled-timeline boss4"></div>
+
+				      		
+				      		
+				      		
+				      		
+				      		<span class="bossesKilled-active boss4"></span>
+				    	</div>
+				    </div>
+				</div>
+			
+				<div class="page-section artisans">
+				    <div class="section-header ">
+				   	 <h3 class="header-3" >工匠</h3>
+				    </div>
+				    <div class="section-body">
+				        <div class="artisan blacksmith">
+				            <span class="title">铁匠</span>
+				            <span class="level normal">等级<span class="value">12</span>（普通）</span>
+				            <span class="level hardcore">等级<span class="value">0</span>（专家）</span>
+				        </div>
+				        <div class="artisan jeweler">
+				            <span class="title">珠宝匠</span>
+				            <span class="level normal">等级<span class="value">12</span>（普通）</span>
+				            <span class="level hardcore">等级<span class="value">0</span>（专家）</span>
+				        </div>
+				        <div class="artisan mystic">
+				            <span class="title">秘士</span>
+				            <span class="level normal">等级<span class="value">12</span>（普通）</span>
+				            <span class="level hardcore">等级<span class="value">0</span>（专家）</span>
+				        </div>
+					    <span class="clear"><!-- --></span>
+				    </div>
+				</div>
+			
+				<div class="page-section fallen-heroes">
+					<div class="section-header ">
+						<h3 class="header-3" >阵亡英雄</h3>
+				    </div>
+				        <div class="section-body">
+				            <div class="fallen-hero row-1 [Template rendering errors]-male" data-tooltip="#hero-tab-tooltip-100">
+				                <span class="name">飞飞飞</span>
+				                <span class="time-played">2018-03-08</span>
+				                <span class="level">70</span>
+				            </div>
+						    <div id="hero-tab-tooltip-100" style="display:none">
+						        <div class="hero-tab-tooltip profile-tooltip">
+								    <h2 class="subheader-2" >飞飞飞</h2>
+						            <p class="d3-color-hardcore">
+						                <strong>70</strong>级
+						            </p>
+					                <p class="d3-color-hardcore">专家模式
+				                        <span class="d3-color-hardcore">（死亡）</span>
+					                </p>
+					                <div class="fallen-hero-data">
+					                    <p>精英怪消灭数：[Template rendering errors]</p>
+					                    <p>死亡时间：2018-03-08 23:35:55</p>
+					                </div>
+						        </div>
+						    </div>
+				            <div class="fallen-hero row-1 [Template rendering errors]-male" data-tooltip="#hero-tab-tooltip-101">
+				                <span class="name">死不怕</span>
+				                <span class="time-played">2018-03-08</span>
+				                <span class="level">70</span>
+				            </div>
+						    <div id="hero-tab-tooltip-101" style="display:none">
+						        <div class="hero-tab-tooltip profile-tooltip">
+								    <h2 class="subheader-2" >死不怕</h2>
+						            <p class="d3-color-hardcore">
+						                <strong>70</strong>级
+						            </p>
+					                <p class="d3-color-hardcore">专家模式
+				                        <span class="d3-color-hardcore">（死亡）</span>
+					                </p>
+					                <div class="fallen-hero-data">
+					                    <p>精英怪消灭数：[Template rendering errors]</p>
+					                    <p>死亡时间：2018-03-08 14:46:22</p>
+					                </div>
+						        </div>
+						    </div>
+				            <div class="fallen-hero row-1 [Template rendering errors]-male" data-tooltip="#hero-tab-tooltip-102">
+				                <span class="name">死不怕贰点零</span>
+				                <span class="time-played">2018-03-08</span>
+				                <span class="level">70</span>
+				            </div>
+						    <div id="hero-tab-tooltip-102" style="display:none">
+						        <div class="hero-tab-tooltip profile-tooltip">
+								    <h2 class="subheader-2" >死不怕贰点零</h2>
+						            <p class="d3-color-hardcore">
+						                <strong>70</strong>级
+						            </p>
+					                <p class="d3-color-hardcore">专家模式
+				                        <span class="d3-color-hardcore">（死亡）</span>
+					                </p>
+					                <div class="fallen-hero-data">
+					                    <p>精英怪消灭数：[Template rendering errors]</p>
+					                    <p>死亡时间：2018-03-08 16:42:18</p>
+					                </div>
+						        </div>
+						    </div>
+				    		<span class="clear"><!-- --></span>
+				        </div>
+				    </div>
+				</div>
+			</div>
+		</div>
+		<span class="clear"><!-- --></span>

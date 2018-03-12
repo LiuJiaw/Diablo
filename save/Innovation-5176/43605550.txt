@@ -1,0 +1,1602 @@
+<div class="ui-breadcrumbs">
+    <a href="/home">暗黑破坏神III</a>
+    <span class="arrow">></span>
+    <a href="/profile/Innovation-5176">Innovation#5176</a>
+    <span class="arrow">></span>
+    <a href="javascript:;" class="active">丑八怪</a>
+</div>
+<div class="profile-wrapper">
+    <div class="profile-head">
+            <h2 class="header-2">
+Innovation<span class="battleTag">#5176</span>
+                <span class="clan">现世安好</span>
+			</h2>
+        <span class="clear"><!-- --></span>
+    </div>
+    <ul class="tab-menu clearFix">
+        <li class="menu-heroes ">
+            <a href="javascript:;" class="tab-active">
+                <span>英雄</span>
+            </a>
+        </li>
+        <li class="menu-career ">
+            <a href="/profile/Innovation-5176">
+                <span>冒险经历</span>
+            </a>
+        </li>
+    </ul>
+    <div class="profile-body" id="profile-body">
+        <div class="barbarian-female">
+            <div class="profile-selector" id="heroes">
+            	<a href="javascript:;" class="hero-tabs-left"></a>
+            	<div class="hero-tabs-wrap">
+	                <ul class="hero-tabs">
+	                    <li>
+	                        <a class="hero-tab crusader-female " href="45963301" data-tooltip="#hero-tab-tooltip-0">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">三光</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-0" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">三光</h2>
+	                                <p >
+	                                    <strong>70</strong>级圣教军
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab barbarian-female active" href="43605550" data-tooltip="#hero-tab-tooltip-1">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">丑八怪</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-1" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">丑八怪</h2>
+	                                <p >
+	                                    <strong>70</strong>级野蛮人
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab barbarian-female " href="45942107" data-tooltip="#hero-tab-tooltip-2">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">叮一下</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-2" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">叮一下</h2>
+	                                <p >
+	                                    <strong>70</strong>级野蛮人
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab necromancer-female " href="45236923" data-tooltip="#hero-tab-tooltip-3">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">叮叮叮</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-3" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">叮叮叮</h2>
+	                                <p >
+	                                    <strong>70</strong>级死灵法师
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab demon-hunter-female " href="43605545" data-tooltip="#hero-tab-tooltip-4">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">女王大人</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-4" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">女王大人</h2>
+	                                <p >
+	                                    <strong>70</strong>级猎魔人
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab witch-doctor-female " href="43605554" data-tooltip="#hero-tab-tooltip-5">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">小巫医</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-5" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">小巫医</h2>
+	                                <p >
+	                                    <strong>70</strong>级巫医
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab monk-female " href="43605553" data-tooltip="#hero-tab-tooltip-6">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">小武僧</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-6" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">小武僧</h2>
+	                                <p >
+	                                    <strong>70</strong>级武僧
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab -female " href="43605560" data-tooltip="#hero-tab-tooltip-7">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">小法</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-7" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">小法</h2>
+	                                <p >
+	                                    <strong>70</strong>级
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab -female " href="43605549" data-tooltip="#hero-tab-tooltip-8">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">小猪</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-8" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">小猪</h2>
+	                                <p >
+	                                    <strong>70</strong>级
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab wizard-female " href="43605555" data-tooltip="#hero-tab-tooltip-9">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">小猪</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-9" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">小猪</h2>
+	                                <p >
+	                                    <strong>70</strong>级魔法师
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab witch-doctor-male " href="43605552" data-tooltip="#hero-tab-tooltip-10">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">老巫医</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-10" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">老巫医</h2>
+	                                <p >
+	                                    <strong>70</strong>级巫医
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab -female " href="43605557" data-tooltip="#hero-tab-tooltip-11">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">蛮神</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-11" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">蛮神</h2>
+	                                <p >
+	                                    <strong>70</strong>级
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab demon-hunter-male " href="43605543" data-tooltip="#hero-tab-tooltip-12">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">请叫我大哥</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-12" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">请叫我大哥</h2>
+	                                <p >
+	                                    <strong>70</strong>级猎魔人
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab -female " href="43605551" data-tooltip="#hero-tab-tooltip-13">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">豆角豆角</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-13" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">豆角豆角</h2>
+	                                <p >
+	                                    <strong>70</strong>级
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab necromancer-female " href="43605547" data-tooltip="#hero-tab-tooltip-14">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">辅助死灵</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-14" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">辅助死灵</h2>
+	                                <p >
+	                                    <strong>70</strong>级死灵法师
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab monk-female " href="43605559" data-tooltip="#hero-tab-tooltip-15">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">70</span>
+	                            <span class="name">辅助点宝石</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-15" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">辅助点宝石</h2>
+	                                <p >
+	                                    <strong>70</strong>级武僧
+
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <a class="hero-tab -female " href="45884306" data-tooltip="#hero-tab-tooltip-16">
+	                            <span class="hero-portrait">
+	                            </span>
+	                            <span class="level">1</span>
+	                            <span class="name">仓库</span>
+	                        </a>
+	                        <div id="hero-tab-tooltip-16" style="display:none">
+	                            <div class="hero-tab-tooltip profile-tooltip">
+	                                <h2 class="subheader-2">仓库</h2>
+	                                <p >
+	                                    <strong>1</strong>级
+	                                </p>
+	                            </div>
+	                        </div>
+	                    </li>
+	                </ul>
+                </div>
+                <a href="javascript:;" class="hero-tabs-right"></a>
+            </div>
+            <div class="profile-sheet" data-heroName="barbarian">
+                <h2 class="class">
+                	<a href="/gameguide/class/barbarian/" target="_blank">
+                		<span><strong>70<span class="paragon-level">（4939）</span></strong>级野蛮人
+</span>
+					</a>
+				</h2>
+                <h2 class="header-2 name">丑八怪</h2>
+                <div class="paperdoll" id="paperdoll">
+                    <ul class="gear-slots">
+                        <!-- 头部  -->
+                        <li class="slot-head">
+                            <a class="slot-link" href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/head/item?param=/item/raekors-will-Unique_Helm_Set_05_x1">
+	                            <span class="d3-icon d3-icon-item d3-icon-item-green">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+	                                </span>
+	                            </span>
+                                <span class="image">
+                                	<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_helm_set_05_x1_demonhunter_male.png" alt="" />
+								</span>
+								<!-- 插槽和宝石 -->
+								<span class="sockets-wrapper">
+									<span class="sockets-align">
+										<span class="socket">
+											<img class="gem" src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/x1_amethyst_10_demonhunter_male.png" />
+										</span>
+										<br />
+									</span>
+								</span>
+							</a>						
+							<a href="javascript:;"
+								class="item-dye"
+								data-d3tooltip="/dye?param=item/abyssal-dye-Dye_20">
+								<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/dye_20_demonhunter_male.png" />
+							</a>
+							<a href="javascript:;" class="item-transmog" data-d3tooltip="/item?param=/item/mempo-of-twilight-Unique_Helm_006_x1">
+								<img src="http://content.battlenet.com.cn/d3/static-zh-cn/profile/hero/bg-transmog.gif" />
+							</a>
+						</li>
+						<!-- 躯干  -->
+						<li class="slot-torso">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/torso/item?param=/item/immortal-kings-eternal-reign-Unique_Chest_013_x1">
+								<span class="d3-icon d3-icon-item d3-icon-item-green">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_chest_013_x1_demonhunter_male.png" alt="" />
+								</span>
+								<span class="sockets-wrapper">
+									<span class="sockets-align">
+										<span class="socket">
+											<img class="gem" src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/x1_diamond_10_demonhunter_male.png" />
+										</span>
+										<br />
+										<span class="socket">
+											<img class="gem" src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/x1_diamond_10_demonhunter_male.png" />
+										</span>
+										<br />
+										<span class="socket">
+											<img class="gem" src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/x1_diamond_10_demonhunter_male.png" />
+										</span>
+										<br />
+									</span>
+								</span>
+							</a>
+							<a href="javascript:;"
+								class="item-dye"
+								data-d3tooltip="/dye?param=item/purity-dye-Dye_19">
+								<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/dye_19_demonhunter_male.png" />
+							</a>
+							<a href="javascript:;" class="item-transmog" data-d3tooltip="/item?param=/item/doom-armor-ChestArmor_204">
+								<img src="http://content.battlenet.com.cn/d3/static-zh-cn/profile/hero/bg-transmog.gif" />
+							</a>
+						</li>
+						<!-- 足部  -->
+						<li class="slot-feet">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/feet/item?param=/item/raekors-striders-Unique_Boots_Set_05_x1">
+								<span class="d3-icon d3-icon-item d3-icon-item-green">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_boots_set_05_x1_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+							<a href="javascript:;"
+								class="item-dye"
+								data-d3tooltip="/dye?param=item/infernal-dye-Dye_18">
+								<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/dye_18_demonhunter_male.png" />
+							</a>
+							<a href="javascript:;" class="item-transmog" data-d3tooltip="/item?param=/artisan/blacksmith/recipe/apprentice-heavy-boots">
+								<img src="http://content.battlenet.com.cn/d3/static-zh-cn/profile/hero/bg-transmog.gif" />
+							</a>
+						</li>
+						<!-- 手套 -->
+						<li class="slot-hands">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/hands/item?param=/item/immortal-kings-irons-Unique_Gloves_008_x1">
+								<span class="d3-icon d3-icon-item d3-icon-item-green">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_gloves_008_x1_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+							<a href="javascript:;"
+								class="item-dye"
+								data-d3tooltip="/dye?param=item/purity-dye-Dye_19">
+								<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/dye_19_demonhunter_male.png" />
+							</a>
+							<a href="javascript:;" class="item-transmog" data-d3tooltip="/item?param=/item/stranglers-Gloves_204">
+								<img src="http://content.battlenet.com.cn/d3/static-zh-cn/profile/hero/bg-transmog.gif" />
+							</a>
+						</li>
+						<!-- 护肩 -->
+						<li class="slot-shoulders">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/shoulders/item?param=/item/raekors-burden-Unique_Shoulder_Set_05_x1">
+								<span class="d3-icon d3-icon-item d3-icon-item-green">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_shoulder_set_05_x1_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+							<a href="javascript:;"
+								class="item-dye"
+								data-d3tooltip="/dye?param=item/abyssal-dye-Dye_20">
+								<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/dye_20_demonhunter_male.png" />
+							</a>
+							<a href="javascript:;" class="item-transmog" data-d3tooltip="/item?param=/artisan/blacksmith/recipe/adept-spaulders">
+								<img src="http://content.battlenet.com.cn/d3/static-zh-cn/profile/hero/bg-transmog.gif" />
+							</a>
+						</li>
+						<!-- 腿部 -->
+						<li class="slot-legs">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/legs/item?param=/item/immortal-kings-stature-P2_Unique_Pants_02">
+								<span class="d3-icon d3-icon-item d3-icon-item-green">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/p2_unique_pants_02_demonhunter_male.png" alt="" />
+								</span>
+								<span class="sockets-wrapper">
+									<span class="sockets-align">
+										<span class="socket">
+											<img class="gem" src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/x1_diamond_10_demonhunter_male.png" />
+										</span>
+										<br />
+										<span class="socket">
+											<img class="gem" src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/x1_diamond_10_demonhunter_male.png" />
+										</span>
+										<br />
+									</span>
+								</span>
+							</a>
+							<a href="javascript:;"
+								class="item-dye"
+								data-d3tooltip="/dye?param=item/purity-dye-Dye_19">
+								<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/dye_19_demonhunter_male.png" />
+							</a>
+							<a href="javascript:;" class="item-transmog" data-d3tooltip="/item?param=/item/hexing-pants-of-mr-yan-Unique_Pants_101_x1">
+								<img src="http://content.battlenet.com.cn/d3/static-zh-cn/profile/hero/bg-transmog.gif" />
+							</a>
+						</li>
+						<!-- 护腕 -->
+						<li class="slot-bracers">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/bracers/item?param=/item/ancient-parthan-defenders-Unique_Bracer_102_x1">
+									<span class="d3-icon d3-icon-item d3-icon-item-orange"> <span
+										class="icon-item-gradient"> <span class="icon-item-inner"></span>
+									</span>
+								</span> <span class="image"> <img
+										src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_bracer_102_x1_demonhunter_male.png"
+										alt="" />
+								</span>
+							</a>
+						</li>
+                        <!-- 主手 -->
+						<li class="slot-mainHand">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/mainHand/item?param=/item/immortal-kings-boulder-breaker-Unique_Mighty_2H_010_x1">
+								<span class="d3-icon d3-icon-item d3-icon-item-green">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_mighty_2h_010_x1_demonhunter_male.png" alt="" />
+								</span>
+								<span class="sockets-wrapper">
+									<span class="sockets-align">
+										<span class="socket">
+											<img class="gem" src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/x1_emerald_10_demonhunter_male.png" />
+										</span>
+										<br />
+									</span>
+								</span>
+							</a>
+							<a href="javascript:;" class="item-transmog" data-d3tooltip="/item?param=/item/sungjaes-fury-TransmogAxe_241_004">
+								<img src="http://content.battlenet.com.cn/d3/static-zh-cn/profile/hero/bg-transmog.gif" />
+							</a>
+						</li>
+						<!-- 副手 -->
+						<li class="slot-offHand">
+							<span class="disabled-off-hand">
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_mighty_2h_010_x1_demonhunter_male.png" alt="" />
+								</span>
+							</span>
+						</li>
+                        <!-- 腰部 -->
+						<li class="slot-waist">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/waist/item?param=/item/immortal-kings-tribal-binding-Unique_BarbBelt_009_x1">
+								<span class="d3-icon d3-icon-item d3-icon-item-green">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_barbbelt_009_x1_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+						</li>
+                        <!-- 右手指 -->
+						<li class="slot-rightFinger">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/rightFinger/item?param=/item/band-of-might-P61_Unique_Ring_05">
+								<span class="d3-icon d3-icon-item d3-icon-item-orange">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/p61_unique_ring_05_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+						</li>
+                        <!-- 左手指 -->
+						<li class="slot-leftFinger"><a class="slot-link"
+							href="javascript:;"
+							data-d3tooltip="/career/Innovation-5176/43605550/leftFinger/item?param=/item/convention-of-elements-P2_Unique_Ring_04">
+								<span class="d3-icon d3-icon-item d3-icon-item-orange">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+										<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/p2_unique_ring_04_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+						</li>
+                        <!-- 颈部 -->
+						<li class="slot-neck">
+							<a class="slot-link"
+								href="javascript:;"
+								data-d3tooltip="/career/Innovation-5176/43605550/neck/item?param=/artisan/jeweler/recipe/hellfire-amulet-of-intelligence">
+								<span class="d3-icon d3-icon-item d3-icon-item-orange">
+									<span class="icon-item-gradient">
+										<span class="icon-item-inner"></span>
+									</span>
+								</span>
+								<span class="image">
+									<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/x1_amulet_norm_unique_25_demonhunter_male.png" alt="" />
+								</span>
+							</a>
+						</li>
+					</ul>
+					<ul class="gear-labels" id="gear-labels">
+                        <li class="gear-label slot-head">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/head/item?param=/item/raekors-will-Unique_Helm_Set_05_x1" class="label-link d3-color-green">
+                                <span class="item-name">蕾蔻的意志
+</span>
+                                <!-- 装备加成 -->
+                                <span class="bonus-value bonus-resistanceAll long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">130</span>
+                                		 全抗
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">1600</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-armor long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">759.0</span>
+                                		 护甲
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalChance long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">6.0%</span>
+                                		 暴击几率
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-torso">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/torso/item?param=/item/immortal-kings-eternal-reign-Unique_Chest_013_x1" class="label-link d3-color-green">
+                                <span class="item-name">不朽之王的永恒统治
+</span>
+                                <span class="bonus-value bonus-resistanceAll long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">234</span>
+                                		 全抗
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">1234</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-armor long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">740.0</span>
+                                		 护甲
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-vitality long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">626</span>
+                                		 体能
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-feet">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/feet/item?param=/item/raekors-striders-Unique_Boots_Set_05_x1" class="label-link d3-color-green">
+                                <span class="item-name">蕾蔻的豪迈
+</span>
+                                <span class="bonus-value bonus-resistanceAll long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">124</span>
+                                		 全抗
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">1188</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-experience_bonus long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">239</span>
+                                		 经验加成
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-armor long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">546.3</span>
+                                		 护甲
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-vitality long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">645</span>
+                                		 体能
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-hands">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/hands/item?param=/item/immortal-kings-irons-Unique_Gloves_008_x1" class="label-link d3-color-green">
+                                <span class="item-name">不朽之王的铁拳
+</span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">1592</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-experience_bonus long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">257</span>
+                                		 经验加成
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-armor long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">545.3</span>
+                                		 护甲
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalDamage long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">
+                                		49.0%
+                                		</span>
+                                		 暴击伤害
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalChance long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">
+                                		9.5%
+                                		</span>
+                                		 暴击几率
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-shoulders">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/shoulders/item?param=/item/raekors-burden-Unique_Shoulder_Set_05_x1" class="label-link d3-color-green">
+                                <span class="item-name">蕾蔻的重任
+</span>
+                                <span class="bonus-value bonus-resistanceAll long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">115</span>
+                                		 全抗
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">1221</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-armor long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">614.7</span>
+                                		 护甲
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-legs">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/legs/item?param=/item/immortal-kings-stature-P2_Unique_Pants_02" class="label-link d3-color-green">
+                                <span class="item-name">不朽之王的威仪
+</span>
+                                <span class="bonus-value bonus-resistanceAll long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">268</span>
+                                		 全抗
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">1190</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-experience_bonus long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">226</span>
+                                		 经验加成
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-armor long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">732.0</span>
+                                		 护甲
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-vitality long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">645</span>
+                                		 体能
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-bracers">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/bracers/item?param=/item/ancient-parthan-defenders-Unique_Bracer_102_x1" class="label-link d3-color-orange">
+                                <span class="item-name">古帕萨卫士护腕
+</span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">1232</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-armor long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">400.7</span>
+                                		 护甲
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalChance long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">6.0%</span>
+                                		 暴击几率
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-vitality long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">566</span>
+                                		 体能
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-mainHand">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/mainHand/item?param=/item/immortal-kings-boulder-breaker-Unique_Mighty_2H_010_x1" class="label-link d3-color-green">
+                                <span class="item-name">不朽之王的碎石锤
+</span>
+                                <span class="weapon-dps"><span class="value">4,395.9</span> 秒伤</span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">2070</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalDamage long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">130%</span>
+                                		 暴击伤害
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-vitality long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">1465</span>
+                                		 体能
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-waist">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/waist/item?param=/item/immortal-kings-tribal-binding-Unique_BarbBelt_009_x1" class="label-link d3-color-green">
+                                <span class="item-name">不朽之王的部族绑腰
+</span>
+                                <span class="bonus-value bonus-resistanceAll long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">112</span>
+                                		 全抗
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">1193</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-armor long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">669.7</span>
+                                		 护甲
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-vitality long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">618</span>
+                                		 体能
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-rightFinger">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/rightFinger/item?param=/item/band-of-might-P61_Unique_Ring_05" class="label-link d3-color-orange">
+                                <span class="item-name">力量指环
+</span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">1250</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalDamage long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">50.0%</span>
+                                		 暴击伤害
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalChance long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">6.0%</span>
+                                		 暴击几率
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-leftFinger">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/leftFinger/item?param=/item/convention-of-elements-P2_Unique_Ring_04" class="label-link d3-color-orange">
+                                <span class="item-name">全能法戒
+</span>
+                                <span class="bonus-value bonus-strength long-bonus" >
+                                	<p>
+                                		<span class="value">505</span>
+                                		 力量
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-experience_bonus long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">253</span>
+                                		 经验加成
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalDamage long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">46.0%</span>
+                                		 暴击伤害
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalChance long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">5.0%</span>
+                                		 暴击几率
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="gear-label slot-neck">
+                            <a href="javascript:;" data-d3tooltip="/career/Innovation-5176/43605550/neck/item?param=/artisan/jeweler/recipe/hellfire-amulet-of-intelligence" class="label-link d3-color-orange">
+                                <span class="item-name">地狱火护符
+</span>
+                                <span class="bonus-value bonus-criticalDamage long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">
+                                		      100.0%
+                                		</span>
+                                		 暴击伤害
+                                	</p>
+                                </span>
+                                <span class="bonus-value bonus-criticalChance long-bonus" style="display:none">
+                                	<p>
+                                		<span class="value">
+                                		      9.5%
+                                		</span>
+                                		 暴击几率
+                                	</p>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="gear-lines">
+                        <li class="slot-head"></li>
+                        <li class="slot-torso"></li>
+                        <li class="slot-feet"></li>
+                        <li class="slot-hands"></li>
+                        <li class="slot-shoulders"></li>
+                        <li class="slot-legs"></li>
+                        <li class="slot-bracers"></li>
+                        <li class="slot-mainHand"></li>
+                        <li class="slot-waist"></li>
+                        <li class="slot-rightFinger"></li>
+                        <li class="slot-leftFinger"></li>
+                        <li class="slot-neck"></li>
+                    </ul>
+                </div>
+                <div class="gear-bonuses" id="bonuses">
+                    <h3 class="header-3"><span class="help-icon tip" data-tooltip="#gear-bonuses-tooltip"></span>装备加成</h3>
+                    <div id="gear-bonuses-tooltip" style="display: none;">
+                        <div class="profile-tooltip">
+                            <h2 class="subheader-2">装备加成</h2>
+                            <p>此功能列出身上装备的主要加成属性。你可以选择一个加成来查看该加成来自哪些装备。</p>
+                        </div>
+                    </div>
+                    <ul>
+                        <li>
+                            <a href="javascript:;" class="bonus-stat" data-bonus-index="strength">
+                                <span class="bonus-radio active"></span>
+                                <p><span class="value">
+                                    14275
+                                </span>
+                                力量</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:;" class="bonus-stat" data-bonus-index="resistanceAll">
+                                <span class="bonus-radio "></span>
+                                <p><span class="value">
+                                    983
+                                </span>
+                                全抗</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:;" class="bonus-stat" data-bonus-index="armor">
+                                <span class="bonus-radio "></span>
+                                <p><span class="value">
+                                    5008
+                                </span>
+                                护甲</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:;" class="bonus-stat" data-bonus-index="criticalChance">
+                                <span class="bonus-radio "></span>
+                                <p><span class="value">
+                                    42.00%
+</span>
+                                暴击几率</p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:;" class="bonus-stat" data-bonus-index="vitality">
+                                <span class="bonus-radio "></span>
+                                <p><span class="value">
+                                    4565
+                                </span>
+                                体能</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <span class="clear"><!-- --></span>
+            </div>
+            <div class="profile-lower">
+                <div class="profile-overview clearFix" id="overview">
+                    <div class="page-section skills">
+                        <div class="section-header ">
+                            <h3 class="header-3">技能</h3>
+                        </div>
+                        <!-- 技能 -->
+                        <div class="section-body">
+                        	<div class="skills-wrapper">
+                                <ul class="active-skills clear-after">
+                                    <li>
+                                        <a id="active-skill-tooltip-0-link"
+                                        	href="javascript:;"
+                                        	data-d3tooltip="/career/Innovation-5176/43605550/skill/0">
+                                            <span class="d3-icon d3-icon-skill d3-icon-skill-42 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/x1_barbarian_ancientspear.png'); width: 42px; height: 42px;">
+												<span class="frame"></span>
+                                            </span>
+                                            <span class="skill-name">上古之矛
+												<span class="rune-name">投掷巨石</span>
+                                            </span>
+                                         </a>
+                                         <span class="slot slot-primary"></span>
+                                      </li>                                     
+                                      <li>
+                                      	<a id="active-skill-tooltip-1-link"
+                                      		href="javascript:;"
+                                      		data-d3tooltip="/career/Innovation-5176/43605550/skill/1">
+                                            <span class="d3-icon d3-icon-skill d3-icon-skill-42 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/barbarian_furiouscharge.png'); width: 42px; height: 42px;">
+												<span class="frame"></span>
+                                            </span>
+                                            <span class="skill-name">狂暴冲撞
+												<span class="rune-name">人肉战车</span>
+                                            </span>
+                                         </a>
+                                         <span class="slot slot-secondary"></span>
+                                       </li>
+                                       <li>
+                                       	  <a id="active-skill-tooltip-2-link"
+                                       	  	href="javascript:;"
+                                       	  	data-d3tooltip="/career/Innovation-5176/43605550/skill/2">
+                                            <span class="d3-icon d3-icon-skill d3-icon-skill-42 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/barbarian_sprint.png'); width: 42px; height: 42px;">
+												<span class="frame"></span>
+                                            </span>
+                                            <span class="skill-name">疾奔
+												<span class="rune-name">奔跑健将</span>
+                                            </span>
+                                           </a>
+                                           <span class="slot slot-1"></span>
+                                       </li>
+	                                   <li>
+	                                        <a id="active-skill-tooltip-3-link"
+	                                        	href="javascript:;"
+	                                        	data-d3tooltip="/career/Innovation-5176/43605550/skill/3">
+	                                            <span class="d3-icon d3-icon-skill d3-icon-skill-42 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/barbarian_battlerage.png'); width: 42px; height: 42px;">
+													<span class="frame"></span>
+                                                </span>
+                                                <span class="skill-name">
+													战斗怒火
+													<span class="rune-name">血溅十方</span>
+                                                </span>
+                                             </a>
+                                             <span class="slot slot-2"></span>
+                                        </li>
+                                        <li>
+                                            <a id="active-skill-tooltip-4-link"
+                                            	href="javascript:;"
+                                            	data-d3tooltip="/career/Innovation-5176/43605550/skill/4">
+                                                <span class="d3-icon d3-icon-skill d3-icon-skill-42 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/barbarian_wrathoftheberserker.png'); width: 42px; height: 42px;">
+													<span class="frame"></span>
+                                                </span>
+                                                <span class="skill-name">
+													狂暴者之怒
+													<span class="rune-name">癫狂</span>
+                                                 </span>
+                                              </a>
+                                              <span class="slot slot-3"></span>
+                                         </li>
+	                                     <li>
+	                                          <a id="active-skill-tooltip-5-link"
+	                                          	 href="javascript:;"
+	                                          	 data-d3tooltip="/career/Innovation-5176/43605550/skill/5">
+	                                             <span class="d3-icon d3-icon-skill d3-icon-skill-42 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/barbarian_calloftheancients.png'); width: 42px; height: 42px;">
+													<span class="frame"></span>
+                                                 </span>
+                                                 <span class="skill-name">
+													先祖召唤
+													<span class="rune-name">戮力同心</span>
+                                                  </span>
+                                               </a>
+                                               <span class="slot slot-4"></span>
+                                          </li>
+                                </ul>
+                                       <span class="clear"><!-- --></span>
+                                       <ul class="passive-skills clear-after">
+                                            <li>
+                                                <a data-d3tooltip="/career/Innovation-5176/43605550/passive/0">
+                                                    <span class="passive-icon">
+														<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/barbarian_passive_ruthless.png" style="width:32px; height:32px" />
+													</span>
+                                                    <span class="skill-name">残酷</span>
+                                                 </a>
+                                            </li>
+                                            <li>
+                                                <a data-d3tooltip="/career/Innovation-5176/43605550/passive/1">
+                                                    <span class="passive-icon">
+														<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/x1_barbarian_passive_rampage.png" style="width:32px; height:32px" />
+													</span>
+                                                    <span class="skill-name">狂暴</span>
+                                                 </a>
+                                            </li>
+                                            <li>
+                                                <a data-d3tooltip="/career/Innovation-5176/43605550/passive/2">
+                                                    <span class="passive-icon">
+														<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/barbarian_passive_nervesofsteel.png" style="width:32px; height:32px" />
+													</span>
+                                                    <span class="skill-name">钢铁神经</span>
+                                                 </a>
+                                            </li>
+                                            <li>
+                                                <a data-d3tooltip="/career/Innovation-5176/43605550/passive/3">
+                                                    <span class="passive-icon">
+														<img src="http://content.battlenet.com.cn/d3/icons-zh-cn/skills/42/barbarian_passive_berserkerrage.png" style="width:32px; height:32px" />
+													</span>
+                                                    <span class="skill-name">狂战盛怒</span>
+                                                 </a>
+                                            </li>
+                                        </ul>
+                                        <span class="clear"><!-- --></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="page-section attributes">
+                                <div class="section-header ">
+                                    <h3 class="header-3">属性</h3>
+                                </div>
+                                <div class="section-body">
+                                    <div id="tooltip-strength-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		力量：<span class="d3-color-green"><span class="value">14492</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 野蛮人和圣教军的主属性。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使野蛮人和圣教军的所有伤害提高 <span class="d3-color-green"><span class="value">14492%</span></span>。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使护甲值提高 <span class="d3-color-green"><span class="value">14492</span></span> 点。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-dexterity-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		敏捷：<span class="d3-color-green"><span class="value">77</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 猎魔人和武僧的主属性。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使猎魔人和武僧的所有伤害提高 <span class="d3-color-green"><span class="value">77%</span></span>。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使护甲值提高 <span class="d3-color-green"><span class="value">77</span></span> 点。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-intelligence-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		智力：<span class="d3-color-green"><span class="value">77</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 巫医和魔法师的主属性。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使巫医和魔法师的所有伤害提高 <span class="d3-color-green"><span class="value">77%</span></span>。
+                                                <br/><span class="tooltip-icon-bullet"></span> 使抗性提高 <span class="d3-color-green"><span class="value">7.7</span></span> 点。</p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-vitality-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		体能：<span class="d3-color-green"><span class="value">4712</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 提高生命值以承受更多伤害。
+                                                <br/><span class="tooltip-icon-bullet"></span> 每1点体能可以使生命值提高 <span class="d3-color-green"><span class="value">10</span></span> 点。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-armor-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		护甲值：<span class="d3-color-green"><span class="value">20087</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span>使和你同等级的敌人造成的所有伤害降低 <span class="d3-color-green"><span class="value">0.00%</span></span>。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-dps-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		伤害：<span class="d3-color-green"><span class="value">6003120</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 你每秒可以造成的伤害量。
+                                                <br/><span class="tooltip-icon-bullet"></span> 你的武器、属性、攻速、暴击率、暴击伤害、被动技能以及双持攻速增加会影响伤害。
+                                               </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-toughness-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		坚韧：<span class="d3-color-green"><span class="value">53341500</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 你能承受的原始伤害总量。
+                                                <br/><span class="tooltip-icon-bullet"></span> 生命值上限、护甲值、躲闪几率、
+                                                 平均抗性、远程近战与精英伤害减免会影响坚韧。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-healing-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		恢复：<span class="d3-color-green"><span class="value">2465410</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 你在战斗中每秒可以恢复的坚韧数值。
+                                                <br/><span class="tooltip-icon-bullet"></span> 影响恢复的因素包括：你的坚韧、每次命中恢复的生命、每秒恢复的生命值、生命偷取、
+                                                每消耗1点怒气/内力/愤怒值恢复的生命值、每次消灭恢复的生命值以及生命球治疗加成。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-life-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+                                            <p>
+                                            	<span class="d3-color-gold">
+                                            		生命值上限：<span class="d3-color-green"><span class="value">579964.7</span></span>
+                                                </span>
+                                                <br/><span class="tooltip-icon-bullet"></span> 如果你失去所有生命值即会死亡。
+                                                <br/><span class="tooltip-icon-bullet"></span> 体能、物品和技能可以提高生命值。
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div id="tooltip-maxPrimaryResource-hero" style="display: none;">
+                                        <div class="profile-tooltip">
+<p>
+	<span class="d3-color-gold">
+		怒气：<span class="value">134/134</span>
+	</span>
+    <br/>野蛮人使用怒气生成技<br />或受到伤害时即会产生怒气<br />用于施展野蛮人威力更强的攻击招式
+</p>
+                                        </div>
+                                    </div>
+                                    <ul class="attributes-core">
+                                        <li data-tooltip="#tooltip-strength-hero" class="tip">
+                                            <span class="label">力量</span>
+                                            <span class="value">14492</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-dexterity-hero" class="tip">
+                                            <span class="label">敏捷</span>
+                                            <span class="value">77</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-intelligence-hero" class="tip">
+                                            <span class="label">智力</span>
+                                            <span class="value">77</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-vitality-hero" class="tip">
+                                            <span class="label">体能</span>
+                                            <span class="value">4712</span>
+                                        </li>
+                                        <li class="clear"></li>
+                                    </ul>
+                                    <ul class="attributes-core secondary">
+                                        <li data-tooltip="#tooltip-dps-hero" class="tip">
+                                            <span class="label">伤害</span>
+                                            <span class="value">6003120</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-toughness-hero" class="tip">
+                                            <span class="label">坚韧</span>
+                                            <span class="value">53341500</span>
+                                        </li>
+                                        <li data-tooltip="#tooltip-healing-hero" class="tip">
+                                            <span class="label">恢复</span>
+                                            <span class="value">2465410</span>
+                                        </li>
+                                        <li class="clear"></li>
+                                    </ul>
+                                    <ul class="resources">
+                                        <li class="resource tip" data-tooltip="#tooltip-maxPrimaryResource-hero">
+                                            <span class="resource-icon resource-fury
+">
+                                            	<span class="value">134</span>
+                                            </span>
+                                            <span class="label-wrapper">
+                                            	<span class="label">怒气
+</span>
+                                            </span>
+                                        </li>
+                                        <li class="resource tip" data-tooltip="#tooltip-life-hero">
+                                            <span class="resource-icon resource-life">
+                                            	<span class="value">580k</span>
+                                            </span>
+                                            <span class="label-wrapper"><span class="label">生命值</span></span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="page-section kanai-cube">
+							<div class="section-header ">
+							<h3 class="header-3">卡奈魔盒传奇力量</h3>
+							</div>
+							<div class="section-body">
+							<div class="legendary-powers-wrapper">
+							<div class="legendary-power-wrapper">
+								<div class="legendary-power-container legendary-power-weapon is-active">
+									<a class="legendary-power-item" href="javascript:;" data-d3tooltip="/item?param=/item/standoff-P61_Unique_Polearm_01" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/p61_unique_polearm_01_demonhunter_male.png);"></a>
+								</div>
+								<div class="legendary-power-name"> 武器 </div>
+							</div>
+							<div class="legendary-power-wrapper">
+								<div class="legendary-power-container legendary-power-armor is-active">
+									<a class="legendary-power-item" href="javascript:;" data-d3tooltip="/item?param=/item/vile-ward-Unique_Shoulder_003_p1" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/unique_shoulder_003_p1_demonhunter_male.png);"></a>								
+								</div>
+								<div class="legendary-power-name"> 防具 </div>
+							</div>
+							<div class="legendary-power-wrapper">
+								<div class="legendary-power-container legendary-power-jewelry ">
+								</div>
+								<div class="legendary-power-name"> 首饰 </div>
+							</div>
+							</div>
+							</div>
+							</div>
+                            <span class="clear"><!-- --></span>
+                        </div>
+                        <!--  追随者/随从 -->
+                        <div class="page-section profile-followers">
+                            <div class="section-header ">
+                                <h3 class="header-3">追随者</h3>
+                            </div>
+                            <div class="section-body">
+                                <div class="followers">
+                                    <!-- 魔女 -->
+                                    <div class="follower-wrapper follower-enchantress">
+                                        <a href="/gameguide/follower/enchantress/" class="follower-header">
+                                            <h3 class="header-3">魔女</h3>
+                                            <span class="level">70</span>
+                                        </a>
+                                        <table class="skills">
+                                            <tbody>
+                                            </tbody>
+                                        </table>
+                                        <ul class="items">
+                                            <li>
+                                                <span class="slot slot-special" data-tooltip="魔女法器"></span>
+                                            </li>
+                                            <li>
+                                                <span class="slot slot-neck" data-tooltip="颈部"></span>
+                                            </li>
+                                            <li>
+                                                <a href="javascript:;" class="slot slot-mainHand" data-d3tooltip="/career/Innovation-5176/43605550/enchantress/mainHand/follower-item?param=/item/long-staff-Staff_002">
+                                                    <span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+                                                    	<span class="icon-item-gradient">
+                                                    		<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/staff_002_demonhunter_male.png);"></span>
+                                                    	</span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <span class="slot slot-offHand empty-offhand" data-tooltip="魔女不能使用副手装备。">
+                                                	<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/staff_002_demonhunter_male.png);"></span>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span class="slot slot-leftFinger" data-tooltip="手指"></span>
+                                            </li>
+                                            <li>
+                                                <span class="slot slot-rightFinger" data-tooltip="手指"></span>
+                                            </li>
+                                        </ul>
+                                        <span class="clear"><!-- --></span>
+                                        <ul class="adventure-stats">
+                                            <li class="empty-stat">
+                                                <span class="value">0.0%</span>
+                                                <span class="label">金币获取量</span>
+                                            </li>
+                                            <li class="empty-stat">
+                                                <span class="value">0.0%</span>
+                                                <span class="label">魔法物品获取率</span>
+                                            </li>
+                                            <li class="empty-stat">
+                                                <span class="value">+0</span>
+                                                <span class="label">经验值加成</span>
+                                            </li>
+                                            <span class="clear"><!-- --></span>
+                                        </ul>
+                                    </div>
+                                    <!-- 痞子 -->
+                                    <div class="follower-wrapper follower-scoundrel">
+                                        <a href="/gameguide/follower/scoundrel/" class="follower-header">
+                                            <h3 class="header-3">痞子</h3>
+                                            <span class="level">70</span>
+                                        </a>
+                                        <table class="skills">
+                                            <tbody>                                                                        
+                                            </tbody>
+                                        </table>
+                                        <ul class="items">
+                                            <li>
+                                                <span class="slot slot-special" data-tooltip="痞子徽记"></span>
+                                            </li>
+                                            <li>
+												<span class="slot slot-neck" data-tooltip="颈部"></span>
+											</li>
+                                            <li>
+                                                <a href="javascript:;" class="slot slot-mainHand" data-d3tooltip="/career/Innovation-5176/43605550/scoundrel/mainHand/follower-item?param=/item/light-crossbow-Crossbow_001">
+                                                    <span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+                                                    	<span class="icon-item-gradient">
+                                                    		<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/crossbow_001_demonhunter_male.png);"></span>                                                                            		
+                                                    	</span>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                            	<span class="slot slot-offHand empty-offhand" data-tooltip="痞子不能使用副手装备。">
+                                                	<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/large/crossbow_001_demonhunter_male.png);"></span>                                                	
+                                                </span>
+                                            </li>
+                                            <li>
+												<span class="slot slot-leftFinger" data-tooltip="手指"></span>
+											</li>
+                                            <li>
+												<span class="slot slot-rightFinger" data-tooltip="手指"></span>
+											</li>
+                                       	</ul>
+                                        <span class="clear"><!-- --></span>
+                                        <ul class="adventure-stats">
+                                            <li class="empty-stat">
+                                                <span class="value">0.0</span>
+                                                <span class="label">金币获取量</span>
+                                            </li>
+                                            <li class="empty-stat">                                            
+                                                <span class="value">0.0</span>
+                                                <span class="label">魔法物品获取率</span>
+                                            </li>
+                                            <li class="empty-stat">
+                                                <span class="value">+0</span>
+                                                <span class="label">经验值加成</span>
+                                            </li>
+                                            <span class="clear"><!-- --></span>
+                                        </ul>
+                                    </div>
+                                    <!-- 圣殿骑士 -->
+                                    <div class="follower-wrapper follower-templar">
+                                        <a href="/gameguide/follower/templar/" class="follower-header">
+                                            <h3 class="header-3">圣殿骑士</h3>
+                                            <span class="level">70</span>
+                                        </a>
+                                        <table class="skills">
+                                            <tbody>                                                                        
+                                                <tr id="follower-templar-0-row" class="skill"
+                                                	
+                                                	data-d3tooltip="/follower/Innovation-5176/43605550/templar/0">
+                                                    <td class="icon-cell">
+                                                        <span class="d3-icon d3-icon-skill d3-icon-skill-21 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/21/templar_heal_110.png'); width: 21px; height: 21px;">
+                                                        	<span class="frame"></span>
+                                                        </span>
+                                                    </td>
+                                                    <td class="name-cell"><span class="name">治愈</span></td>
+                                                </tr>
+                                                <tr id="follower-templar-1-row" class="skill"
+                                                	
+                                                	data-d3tooltip="/follower/Innovation-5176/43605550/templar/1">
+                                                    <td class="icon-cell">
+                                                        <span class="d3-icon d3-icon-skill d3-icon-skill-21 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/21/templar_loyalty.png'); width: 21px; height: 21px;">
+                                                        	<span class="frame"></span>
+                                                        </span>
+                                                    </td>
+                                                    <td class="name-cell"><span class="name">忠诚</span></td>
+                                                </tr>
+                                                <tr id="follower-templar-2-row" class="skill"
+                                                	
+                                                	data-d3tooltip="/follower/Innovation-5176/43605550/templar/2">
+                                                    <td class="icon-cell">
+                                                        <span class="d3-icon d3-icon-skill d3-icon-skill-21 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/21/templar_onslaught.png'); width: 21px; height: 21px;">
+                                                        	<span class="frame"></span>
+                                                        </span>
+                                                    </td>
+                                                    <td class="name-cell"><span class="name">突击</span></td>
+                                                </tr>
+                                                <tr id="follower-templar-3-row" class="skill"
+                                                	
+                                                	data-d3tooltip="/follower/Innovation-5176/43605550/templar/3">
+                                                    <td class="icon-cell">
+                                                        <span class="d3-icon d3-icon-skill d3-icon-skill-21 " style="background-image: url('http://content.battlenet.com.cn/d3/icons-zh-cn/skills/21/templar_guardian.png'); width: 21px; height: 21px;">
+                                                        	<span class="frame"></span>
+                                                        </span>
+                                                    </td>
+                                                    <td class="name-cell"><span class="name">守护</span></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <ul class="items">
+                                            <li>
+												<a href="javascript:;" class="slot slot-special" data-d3tooltip="/career/Innovation-5176/43605550/templar/special/follower-item?param=/item/enchanting-favor-x1_FollowerItem_Templar_Legendary_01">
+													<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+														<span class="icon-item-gradient">
+															<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/x1_followeritem_templar_legendary_01_demonhunter_male.png);"></span>
+														</span>
+													</span>
+													<span class="slot-special-border"></span>
+												</a>
+											</li>
+                                            <li>
+												<span class="slot slot-neck" data-tooltip="颈部"></span>
+											</li>
+                                            <li>
+												<span class="slot slot-mainHand" data-tooltip="单手长矛、单手剑、单手斧、单手锤、匕首"></span>
+											</li>
+                                            <li>
+												<span class="slot slot-offHand" data-tooltip="盾牌"></span>
+                                            </li>
+                                            <li>
+												<a href="javascript:;" class="slot slot-leftFinger" data-d3tooltip="/career/Innovation-5176/43605550/templar/leftFinger/follower-item?param=/item/oculus-ring-Unique_Ring_017_p4">
+													<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+														<span class="icon-item-gradient">
+															<span class="icon-item-inner icon-item-default" style="background-image: url(http://content.battlenet.com.cn/d3/icons-zh-cn/items/small/unique_ring_017_p4_demonhunter_male.png);"></span>
+														</span>
+													</span>
+												</a>
+											</li>
+											<li>
+												<span class="slot slot-rightFinger" data-tooltip="手指"></span>
+											</li>
+                                        </ul>
+                                        <span class="clear"><!-- --></span>
+                                        <ul class="adventure-stats">
+                                            <li class="empty-stat">
+                                                <span class="value">0.0</span>
+                                                <span class="label">金币获取量</span>
+                                            </li>
+                                            <li class="empty-stat">
+                                                <span class="value">0.0</span>
+                                                <span class="label">魔法物品获取率</span>
+                                            </li>
+                                            <li >
+                                                <span class="value">+157</span>
+                                                <span class="label">经验值加成</span>
+                                            </li>
+                                            <span class="clear"><!-- --></span>
+                                        </ul>
+                                    </div>
+                                    <span class="clear"><!-- --></span>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="last-updated">最近更新于 2018-01-31 16:59:37</p>
+                    </div>
+                </div>
+            </div>                                    
+        </div>
+        <span class="clear"><!-- --></span>
