@@ -6,15 +6,6 @@ Created on Fri Mar 09 09:57:31 2018
 """
 import re
 from bs4 import BeautifulSoup
-
-
-ip='120.79.197.108:6666'
-def build_proxy(ip):
-    #根据得到的代理ip，设置proxy的格式
-    proxy_ip = 'http://' + ip
-    proxy_ips = 'https://' + ip
-    proxy = {'https': proxy_ips, 'http': proxy_ip}
-    return proxy
     
 def _getPlayerCareer(html):
     print "获取玩家生涯..."
