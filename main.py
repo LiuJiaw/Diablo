@@ -56,11 +56,4 @@ if __name__=="__main__":
                 continue
         role.ShowInformation()
         
-    #role=Role()
-    #role={"BattleTag":"gvliew-5139",
-    #      "ID":"48413231"
-    #      }
-    #role.OfflineInformation(role)
-    #role.ShowInformation()
-    
-    
+ 
